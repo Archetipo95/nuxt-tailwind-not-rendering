@@ -10,7 +10,9 @@
         <li>item 4</li>
         <li>item 5</li>
       </ul>
+      <Green />
     </ClientOnly>
+    <Green />
 
     <NuxtLink to="/prerendered">Go to prerendered</NuxtLink>
   </div>
